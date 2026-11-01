@@ -1,1 +1,2 @@
 Demo feature 1 file 
+Added new line to check	stash
